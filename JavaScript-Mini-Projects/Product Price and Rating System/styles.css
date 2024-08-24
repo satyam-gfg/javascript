@@ -1,0 +1,31 @@
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Styling for input fields */
+input {
+    margin: 5px;
+    padding: 8px;
+}
+
+/* Styling for buttons */
+button {
+    margin: 5px;
+    padding: 10px;
+}
+
+/* Container for the graphs */
+.graph {
+    display: flex;
+    margin-top: 20px;
+}
+
+/* Styling for individual bars in the graph */
+.bar {
+    width: 20px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+}
